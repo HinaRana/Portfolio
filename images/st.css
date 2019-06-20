@@ -1,0 +1,23 @@
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: black;
+  margin: 0;
+}
+h3{
+  float: right;
+  padding-top: 25px;
+  font-size: 60px;
+  font-family: Century Gothic, sans-serif;
+  color: #FFFFFF;
+  letter-spacing: 2px;
+}
+
+span{
+  margin-right: 0px;
+  font-size: 20px;
+  font-family: Century Gothic, sans-serif;
+  letter-spacing: 3px;
+  color: #C0C0C0;
+  float: right;
+}
